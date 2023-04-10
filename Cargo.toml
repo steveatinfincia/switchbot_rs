@@ -1,12 +1,12 @@
 [package]
 name = "switchbot"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 license = "MIT"
 keywords = ["switchbot", "bluetooth", "ble"]
 categories = ["api-bindings", "parser-implementations"]
 
 description = "A library for interacting with SwitchBot devices"
-homepage = "https://github.com/steveatinfincia/switchbot-rs"
-repository = "https://github.com/steveatinfincia/switchbot-rs.git"
+homepage = "https://github.com/steveatinfincia/switchbot_rs"
+repository = "https://github.com/steveatinfincia/switchbot_rs.git"
 readme = "README.md"
