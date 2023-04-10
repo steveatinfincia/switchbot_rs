@@ -15,4 +15,4 @@ contain code for connecting to actual devices.
 
 Determining which device to connect to and handling those connections
 is the responsibility of another crate, you can see an example of
-how to do that in `ble_bridge_rs`.
+how to do that in [ble_bridge_rs](https://github.com/steveatinfincia/ble_bridge_rs).
